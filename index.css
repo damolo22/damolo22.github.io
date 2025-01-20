@@ -1,9 +1,11 @@
+h1{
+    text-align: center;
+    border: dotted;
+}
+h2{
+    text-decoration: underline;
+}
 body{
     background-color:black;
     color: white;
     }
-p{
-    background-color:black;
-    text-align: center;
-    color: white;
-}
